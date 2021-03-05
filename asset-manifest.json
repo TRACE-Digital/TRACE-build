@@ -6,12 +6,12 @@
     "runtime-main.js": "/static/js/runtime-main.a55e345b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a55e345b.js.map",
     "static/css/2.27be3ef1.chunk.css": "/static/css/2.27be3ef1.chunk.css",
-    "static/js/2.263c7671.chunk.js": "/static/js/2.263c7671.chunk.js",
-    "static/js/2.263c7671.chunk.js.map": "/static/js/2.263c7671.chunk.js.map",
+    "static/js/2.84091f8b.chunk.js": "/static/js/2.84091f8b.chunk.js",
+    "static/js/2.84091f8b.chunk.js.map": "/static/js/2.84091f8b.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.27be3ef1.chunk.css.map": "/static/css/2.27be3ef1.chunk.css.map",
     "static/css/main.2e0404d2.chunk.css.map": "/static/css/main.2e0404d2.chunk.css.map",
-    "static/js/2.263c7671.chunk.js.LICENSE.txt": "/static/js/2.263c7671.chunk.js.LICENSE.txt",
+    "static/js/2.84091f8b.chunk.js.LICENSE.txt": "/static/js/2.84091f8b.chunk.js.LICENSE.txt",
     "static/js/main.46935ccb.chunk.js.LICENSE.txt": "/static/js/main.46935ccb.chunk.js.LICENSE.txt",
     "static/media/emilyz.jpg": "/static/media/emilyz.105ff23d.jpg",
     "static/media/all.min.css": "/static/media/fa-solid-900.46fdbd2d.woff",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.a55e345b.js",
     "static/css/2.27be3ef1.chunk.css",
-    "static/js/2.263c7671.chunk.js",
+    "static/js/2.84091f8b.chunk.js",
     "static/css/main.2e0404d2.chunk.css",
     "static/js/main.46935ccb.chunk.js"
   ]
