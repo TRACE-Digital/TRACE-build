@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e0404d2.chunk.css",
+    "main.js": "/static/js/main.d416ff2b.chunk.js",
+    "main.js.map": "/static/js/main.d416ff2b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a55e345b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a55e345b.js.map",
+    "static/css/2.27be3ef1.chunk.css": "/static/css/2.27be3ef1.chunk.css",
+    "static/js/2.09092051.chunk.js": "/static/js/2.09092051.chunk.js",
+    "static/js/2.09092051.chunk.js.map": "/static/js/2.09092051.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.27be3ef1.chunk.css.map": "/static/css/2.27be3ef1.chunk.css.map",
+    "static/css/main.2e0404d2.chunk.css.map": "/static/css/main.2e0404d2.chunk.css.map",
+    "static/js/2.09092051.chunk.js.LICENSE.txt": "/static/js/2.09092051.chunk.js.LICENSE.txt",
+    "static/js/main.d416ff2b.chunk.js.LICENSE.txt": "/static/js/main.d416ff2b.chunk.js.LICENSE.txt",
+    "static/media/emilyz.jpg": "/static/media/emilyz.105ff23d.jpg",
+    "static/media/all.min.css": "/static/media/fa-solid-900.46fdbd2d.woff",
+    "static/media/fingerprint.97f3db6d.svg": "/static/media/fingerprint.97f3db6d.svg",
+    "static/media/header.jpg": "/static/media/header.9ee5a121.jpg",
+    "static/media/nucleo-icons.css": "/static/media/nucleo.bd5cce8b.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a55e345b.js",
+    "static/css/2.27be3ef1.chunk.css",
+    "static/js/2.09092051.chunk.js",
+    "static/css/main.2e0404d2.chunk.css",
+    "static/js/main.d416ff2b.chunk.js"
+  ]
+}
