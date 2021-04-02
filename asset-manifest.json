@@ -1,19 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.51579e08.chunk.css",
-    "main.js": "/static/js/main.c881ad86.chunk.js",
-    "main.js.map": "/static/js/main.c881ad86.chunk.js.map",
+    "main.css": "/static/css/main.c223ee25.chunk.css",
+    "main.js": "/static/js/main.b524afe7.chunk.js",
+    "main.js.map": "/static/js/main.b524afe7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a55e345b.js",
     "runtime-main.js.map": "/static/js/runtime-main.a55e345b.js.map",
     "static/css/2.27be3ef1.chunk.css": "/static/css/2.27be3ef1.chunk.css",
-    "static/js/2.3b0cc7a3.chunk.js": "/static/js/2.3b0cc7a3.chunk.js",
-    "static/js/2.3b0cc7a3.chunk.js.map": "/static/js/2.3b0cc7a3.chunk.js.map",
+    "static/js/2.80602036.chunk.js": "/static/js/2.80602036.chunk.js",
+    "static/js/2.80602036.chunk.js.map": "/static/js/2.80602036.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.27be3ef1.chunk.css.map": "/static/css/2.27be3ef1.chunk.css.map",
-    "static/css/main.51579e08.chunk.css.map": "/static/css/main.51579e08.chunk.css.map",
-    "static/js/2.3b0cc7a3.chunk.js.LICENSE.txt": "/static/js/2.3b0cc7a3.chunk.js.LICENSE.txt",
-    "static/js/main.c881ad86.chunk.js.LICENSE.txt": "/static/js/main.c881ad86.chunk.js.LICENSE.txt",
-    "static/media/emilyz.jpg": "/static/media/emilyz.105ff23d.jpg",
+    "static/css/main.c223ee25.chunk.css.map": "/static/css/main.c223ee25.chunk.css.map",
+    "static/js/2.80602036.chunk.js.LICENSE.txt": "/static/js/2.80602036.chunk.js.LICENSE.txt",
+    "static/js/main.b524afe7.chunk.js.LICENSE.txt": "/static/js/main.b524afe7.chunk.js.LICENSE.txt",
+    "static/media/Charlene.f1106922.png": "/static/media/Charlene.f1106922.png",
+    "static/media/Chris.5aff2c57.jpg": "/static/media/Chris.5aff2c57.jpg",
+    "static/media/Cora.ccfcfc6e.JPG": "/static/media/Cora.ccfcfc6e.JPG",
+    "static/media/Isabel.975e7f16.png": "/static/media/Isabel.975e7f16.png",
+    "static/media/Jack.f720f367.png": "/static/media/Jack.f720f367.png",
+    "static/media/Jakob.40b9d7bc.jpeg": "/static/media/Jakob.40b9d7bc.jpeg",
     "static/media/all.min.css": "/static/media/fa-solid-900.46fdbd2d.woff",
     "static/media/fingerprint.97f3db6d.svg": "/static/media/fingerprint.97f3db6d.svg",
     "static/media/header.jpg": "/static/media/header.9ee5a121.jpg",
@@ -22,8 +27,8 @@
   "entrypoints": [
     "static/js/runtime-main.a55e345b.js",
     "static/css/2.27be3ef1.chunk.css",
-    "static/js/2.3b0cc7a3.chunk.js",
-    "static/css/main.51579e08.chunk.css",
-    "static/js/main.c881ad86.chunk.js"
+    "static/js/2.80602036.chunk.js",
+    "static/css/main.c223ee25.chunk.css",
+    "static/js/main.b524afe7.chunk.js"
   ]
 }
